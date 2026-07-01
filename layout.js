@@ -1,1 +1,0 @@
-export const metadata={title:'Rubricas'};export default function RootLayout({children}){return <html><body>{children}</body></html>}
