@@ -1,1 +1,0 @@
-export default function CourseCard({name}){return <div>{name}</div>}
