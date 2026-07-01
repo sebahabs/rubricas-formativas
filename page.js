@@ -1,1 +1,0 @@
-export default function Home(){return <main><h1>📚 Rúbricas Formativas</h1><p>Proyecto iniciado.</p></main>}
